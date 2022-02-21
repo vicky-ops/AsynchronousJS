@@ -12,3 +12,6 @@
 
 ### Promises
 >The promise is an object representing the completion or failure of the asunc operation. it represents an intermidiate state. In essence it's the browser's way of saying "I promise to get back to with the answer as soon as possible". hence promise
+
+### Async and await
+>The Async function is a function declared with teh async keyword, and the await keywords is permitted within it. The async and await keywords enable asynchronous, promised-based behavior to be written in a cleaner style, avoiding  the need to explicityly configure promised chains
